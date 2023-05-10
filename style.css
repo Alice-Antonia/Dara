@@ -1,13 +1,53 @@
- .cabecalho{
+.cabecalho{
+
 background-color: rgb(168, 214, 255);
+
 text-align: center;
+
 border: 1px solid;
+
 }
 
 .navegacao{
+
     background-color: rgb(220, 168, 255);
+
     text-align: center;
+
     border: 1px solid;
 
+}
+
+.artigo{ 
+
+  background-color:#ffc0cb;
+
+    text-align: center;
+
+    border: 1px solid;
+
+   width:290px;
+
+  height:340px;
 
 }
+
+.sessao{
+
+  background:#EEDAE5;
+
+  text-align: center;
+
+  margin: 30px;
+
+  padding: 50px;
+
+  border: 1px solid;
+
+}
+
+
+
+
+
+
